@@ -31,3 +31,7 @@ var list = [{a:1},{b:2}];
 
 list.push(8);
 console.log(list);
+
+console.log( 4-(4 >>1));
+
+
